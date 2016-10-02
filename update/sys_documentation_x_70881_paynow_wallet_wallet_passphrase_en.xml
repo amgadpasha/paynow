@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="wallet_passphrase" label="Wallet passphrase" language="en" table="x_70881_paynow_wallet">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>wallet_passphrase</element>
+            <help/>
+            <hint/>
+            <label>Wallet passphrase</label>
+            <language>en</language>
+            <name>x_70881_paynow_wallet</name>
+            <plural>Wallet passphrases</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>amgad</sys_created_by>
+            <sys_created_on>2016-10-02 18:24:15</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>1c013bdcdbd62200c0bcd360cf961956</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Wallet passphrase</sys_name>
+            <sys_package display_value="PayNow" source="x_70881_paynow">c0af2f5cdbd62200c0bcd360cf9619ae</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="PayNow">c0af2f5cdbd62200c0bcd360cf9619ae</sys_scope>
+            <sys_update_name>sys_documentation_x_70881_paynow_wallet_wallet_passphrase_en</sys_update_name>
+            <sys_updated_by>amgad</sys_updated_by>
+            <sys_updated_on>2016-10-02 18:24:15</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

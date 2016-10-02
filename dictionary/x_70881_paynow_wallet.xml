@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="wallet" max_length="40" name="x_70881_paynow_wallet" type="collection">
+        <element label="Private key" max_length="40" name="private_key" type="string"/>
+        <element label="Public key" max_length="40" name="public_key" type="string"/>
+        <element label="User" max_length="32" name="user" reference="sys_user" type="reference"/>
+        <element label="Wallet passphrase" max_length="40" name="wallet_passphrase" type="password"/>
+        <index name="index">
+            <element name="user"/>
+        </index>
+    </element>
+</database>
